@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800961886280",
+    "project_id": "boilerplate-d54ec",
+    "storage_bucket": "boilerplate-d54ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800961886280:android:1227f449ecf2dd1e4b007d",
+        "android_client_info": {
+          "package_name": "com.risa.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800961886280-kfaegbu8e93nsot0fgmdvpmgd0kg23tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.risa.boilerplate",
+            "certificate_hash": "63678732aa1070f084ea38d228334e6175902e5d"
+          }
+        },
+        {
+          "client_id": "800961886280-r2k8qtskssoarp2bfjrq7tn1f5i5gf1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOAHbAL3ZXfjFVMlVDVWXUPiuqqQBGCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800961886280-r2k8qtskssoarp2bfjrq7tn1f5i5gf1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
